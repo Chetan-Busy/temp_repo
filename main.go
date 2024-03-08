@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello from remote")
+	fmt.Println("Hello from master")
 }
